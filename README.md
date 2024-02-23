@@ -1,4 +1,4 @@
-# Siamense Neural Network App
+# Siamese Neural Network App
 This project implements a Siamese neural network architecture as described in [this paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf). The network takes two images as input and outputs a binary classification (1 or 0) indicating whether the images are similar or not.
 
 In this project, the neural network is used to create an application similar to FaceID (the neural network determines whether the person in the webcam image is you or another person).
